@@ -1,0 +1,116 @@
+﻿  Source.cpp
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(16,14): warning C4309: инициализация: усечение константного значения
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(28,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(28,13): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(28,29): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "far"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(28,33): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(28,34): error C3861: MK_FP: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(30,8): error C3861: inp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(35,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(36,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(37,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(39,2): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(41,8): error C3861: inp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(46,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(47,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(48,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(50,2): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(51,2): error C3861: outp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(53,8): error C3861: inp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(58,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(59,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(60,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(62,2): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(64,2): error C3861: outp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(65,8): error C3861: inp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(70,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(71,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(72,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(74,2): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(76,2): error C3861: outp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(77,8): error C3861: inp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(82,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(83,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(84,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(86,2): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(88,2): error C3861: outp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(89,8): error C3861: inp: идентификатор не найден
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(94,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(95,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(96,3): error C2065: screen: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102,17): error C2065: oldint8: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102,30): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(103,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(103,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(103,17): error C2065: oldint9: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(103,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(103,30): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(104,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(104,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(104,17): error C2065: oldint10: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(104,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(104,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(105,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(105,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(105,17): error C2065: oldint11: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(105,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(105,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(106,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(106,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(106,17): error C2065: oldint12: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(106,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(106,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(107,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(107,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(107,17): error C2065: oldint13: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(107,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(107,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(108,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(108,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(108,17): error C2065: oldint14: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(108,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(108,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(109,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(109,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(109,17): error C2065: oldint15: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(109,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(109,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(113,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(113,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(113,17): error C2065: oldint70: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(113,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(113,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(114,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(114,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(114,17): error C2065: oldint71: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(114,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(114,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(115,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(115,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(115,17): error C2065: oldint72: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(115,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(115,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(116,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(116,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(116,17): error C2065: oldint73: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(116,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(116,31): error C2059: синтаксическая ошибка: )
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(117,6): error C2182: interrupt: недопустимое использование типа "void"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(117,6): error C2374: interrupt: переопределение; множественная инициализация
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(102): message : см. объявление "interrupt"
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(117,17): error C2065: oldint74: необъявленный идентификатор
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(117,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+D:\БГУИР\АПК\lab2\lab2\Source.cpp(117,27): fatal error C1003: число ошибок превышает 100; остановка компиляции
